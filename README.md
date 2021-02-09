@@ -1,2 +1,1 @@
-##Hello there, It's me Ibad
-I have studiyng IT Web Programming in Nova Scotia Community College. I love coding and taking different coding challenges online. My programming jounrney started in 2017 when I started computer science degree in North East University Bangladesh. Firstly, I got the taste of C programming little bit, then I move to Canada in 2018 and started this Web program in 2019. I am skilled in JavaScript, HTML, CSS, howevere this days I am more inclined with ReactJS, this framework is interesting, I am not a brilliant minded person but I believe I have the enthusiasm to learn new skills and implement in real life situation.
+## Welcome to my GitHub

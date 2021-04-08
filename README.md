@@ -1,5 +1,4 @@
 ## Welcome to my GitHub
-<img src="/Full-Stack-Developer.jpg" alt="My cool logo"/>
 I am from a small city in Bangladesh, came to Canada in 2018 to build a Career in Web Development. From my highschool I was fascinated 
 to learn computer technology, I used to love mathematics, and I found at the end of the day it is all about making a formula which make some task easier. 
 

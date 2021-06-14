@@ -1,9 +1,7 @@
 ## Welcome to my GitHub
-I am from a small city in Bangladesh, came to Canada in 2018 to build a Career in Web Development. From my highschool I was fascinated 
-to learn computer technology, I love mathematics, and I found at the end of the day it is all about making a formula which make some task easier. 
+I came to Canada in 2018 for my higher education and completed the IT Web Programming Diploma in June 2021. From my highschool I was fascinated to learn computer technology, love to solve mathmatics problems by using various formulas.
 
-During 2 year education in college, I have learnt pragramming languages such as JavaScript, Java, PHP, SQL and more. Further, I go deeper into some cool frameworks like Laravel, ReactJS, ASP.NET. In my github repositories I pushed some of my course work and sideprojects. My learning cycle is prgressive and I am improving day by day. Currently, I am curious about devops and trying to educate myself more in deploying web application using various cloud platforms such as Azure, AWS, Netlify, Heroku.
-
+During 2 year education in college, I have learnt languages such as JavaScript, Java, PHP, SQL and more. Further, I go deeper into some strong libraries and frameworks like Laravel, ReactJS, Asp.net. In my github repositories I added some of my course work and sideprojects. 
 Please reach out to me if you have any questions about my work.
 
 #### Thank you
